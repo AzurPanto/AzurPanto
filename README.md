@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AzurPanto
 - 👀 I’m interested in learning how to code for the future!
-- 🌱 I’m currently learning Python  .
+- 🌱 I’m currently learning Python
+  
 I'm a student from Belgium learning how to code
 
 <!---
