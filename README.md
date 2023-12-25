@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AzurPanto
 - 👀 I’m interested in learning how to code for the future!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning CSS
   
-I'm a student from Belgium learning how to code
+
 
 <!---
 AzurPanto/AzurPanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
